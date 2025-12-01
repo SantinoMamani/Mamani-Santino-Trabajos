@@ -1,0 +1,43 @@
+# Dependencias y módulos
+node_modules/
+package-lock.json
+yarn.lock
+.gradle/
+.m2/
+
+# Archivos compilados Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+.classpath
+.project
+.settings/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Entorno
+.env
+.env.local
+venv/
+env/
